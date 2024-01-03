@@ -1,0 +1,1 @@
+# games-ios-detail-package
